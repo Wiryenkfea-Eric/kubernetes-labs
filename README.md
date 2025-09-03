@@ -13,19 +13,17 @@ This repository offers a progressive series of Kubernetes labs, starting from ba
 ## Repository Structure
 
 kubernetes-labs/
-├── 01-basic-pod/ # Simple Pod deployment with README
-├── 02-deployment-service/ # Deployment + Service example
-├── 03-ingress/ # Ingress configuration
-├── 04-configmap-secret/ # ConfigMap & Secret use cases
-├── 05-resource-limits/ # Pod resource constraints demo
-├── 06-deployments-scaling/ # Deployment scaling workshop
-├── student-labs/ # Simplified lab versions for learners
-├── manifests/ # (Optional) All JSON/YAML in one place
-├── images/ # Screenshots and visuals
-├── README.md # This overview
-└── MENTORSHIP.md # Guidance for mentors and learners
-
-
+├── 01-basic-pod/             # Simple Pod deployment with README
+├── 02-deployment-service/    # Deployment + Service example
+├── 03-ingress/               # Ingress configuration
+├── 04-configmap-secret/      # ConfigMap & Secret use cases
+├── 05-resource-limits/       # Pod resource constraints demo
+├── 06-deployments-scaling/   # Deployment scaling workshop
+├── student-labs/             # Simplified lab versions for learners
+├── manifests/                # (Optional) All JSON/YAML in one place
+├── images/                   # Screenshots and visuals
+├── README.md                 # This overview
+└── MENTORSHIP.md             # Guidance for mentors and learners
 
 ---
 
