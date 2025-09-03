@@ -4,13 +4,13 @@ Hands-on Kubernetes labs designed to build foundational skills and mentorship su
 
 ---
 
-## 🚀 Overview
+## Overview
 
 This repository offers a progressive series of Kubernetes labs, starting from basic Pods and working up to advanced concepts like Services, Ingress, ConfigMaps, Secrets, and Resource Management. Each lab is structured to reinforce learning through hands-on experience.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 kubernetes-labs/
 ├── 01-basic-pod/ # Simple Pod deployment with README
@@ -29,7 +29,7 @@ kubernetes-labs/
 
 ---
 
-## 🛠️ How to Use This Repo
+## How to Use This Repo
 
 1. **Clone the repo**:
 
@@ -51,7 +51,7 @@ cd kubernetes-labs
 4. Use images/ for screenshots or logs of your success per lab
 
 
-## 📚 Labs Overview
+## Labs Overview
 
 - **Lab 01 – Basic Pod**  
   Deploy a Pod and practice port-forwarding.
@@ -74,7 +74,7 @@ cd kubernetes-labs
 
 ---
 
-## 🎓 Learning & Mentorship Flow
+## Learning & Mentorship Flow
 
 Check out [MENTORSHIP.md](./MENTORSHIP.md) for:
 
@@ -84,7 +84,7 @@ Check out [MENTORSHIP.md](./MENTORSHIP.md) for:
 
 ---
 
-## 💡 Getting Started Tips
+## Getting Started Tips
 
 - Preview YAML files and docs before running them  
 - Use Minikube or a Kubernetes cluster locally  
@@ -95,7 +95,7 @@ bash
 kubectl get pods,svc,ingress -n demo
 ```
 
-## 📖 Resources
+## Resources
 
 - [Kubernetes Documentation](https://kubernetes.io/docs/home/)
 - [Minikube Guide](https://minikube.sigs.k8s.io/docs/start/)
