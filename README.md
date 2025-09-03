@@ -10,28 +10,22 @@ This repository offers a progressive series of Kubernetes labs, starting from ba
 
 ---
 
-## Repository structure
+## Repository Structure
+
 kubernetes-labs/
-├── Core Learning Modules
-│   ├── 01-basic-pod/                 # Pod fundamentals and lifecycle management
-│   ├── 02-deployment-service/        # Application deployment and networking basics
-│   ├── 03-ingress/                   # External traffic routing and load balancing
-│   ├── 04-configmap-secret/          # Configuration management and secrets handling
-│   ├── 05-resource-limits/           # Resource quotas and performance constraints
-│   └── 06-deployments-scaling/       # Horizontal and vertical scaling strategies
-│
-├── Practice Labs
-│   └── student-labs/                 # Hands-on exercises with step-by-step guides
-│
-├── Resources
-│   ├── manifests/                    # Complete YAML/JSON configuration library
-│   ├── images/                       # Diagrams, screenshots, and visual aids
-│   └── scripts/                      # Helper scripts for setup and cleanup
-│
-└── Documentation
-    ├── README.md                     # Quick start guide and project overview
-    ├── MENTORSHIP.md                 # Teaching guidelines and best practices
-    └── TROUBLESHOOTING.md            # Common issues and troubleshooting guide
+├── 01-basic-pod/             # Pod fundamentals and lifecycle management
+├── 02-deployment-service/    # Application deployment and networking basics
+├── 03-ingress/               # External traffic routing and load balancing
+├── 04-configmap-secret/      # Configuration management and secrets handling
+├── 05-resource-limits/       # Resource quotas and performance constraints
+├── 06-deployments-scaling/   # Horizontal and vertical scaling strategies
+├── student-labs/             # Hands-on exercises with step-by-step guides
+├── manifests/                # Complete YAML/JSON configuration library
+├── images/                   # Diagrams, screenshots, and visual aids
+├── scripts/                  # Helper scripts for setup and cleanup
+├── README.md                 # Quick start guide and project overview
+├── MENTORSHIP.md             # Teaching guidelines and best practices
+└── TROUBLESHOOTING.md        # Common issues and troubleshooting guide
 
 ---
 
