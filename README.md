@@ -55,9 +55,13 @@ cd kubernetes-labs
 
 - **Lab 01 – Basic Pod**  
   Deploy a Pod and practice port-forwarding.
-
+  
+  ![Running Pods](images/running-pods)
+  
 - **Lab 02 – Deployment & Service**  
   Launch a Deployment, expose it with a Service.
+
+  ![Service Exposure](images/service-exposure-nginx-and-apache)
 
 - **Lab 03 – Ingress**  
   Use Ingress to route traffic to multiple apps.
@@ -71,6 +75,17 @@ cd kubernetes-labs
 - **Lab 06 – Deployments & Scaling**  
   Scale Deployments and monitor pod distribution.
 
+  Before scaling:
+  ![Before Scaling](images/before-scaling)
+
+  After scaling:
+  ![Scaled from 2 to 4](images/scaled-from-2-to-4)
+
+  Scaled confirmation message:
+  ![Scaled Message](images/scaled-message)
+
+  All deployments overview:
+  ![All Deployments](images/all-deployments)
 
 ---
 
