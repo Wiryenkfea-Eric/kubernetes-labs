@@ -75,9 +75,6 @@ cd kubernetes-labs
 - **Lab 06 – Deployments & Scaling**  
   Scale Deployments and monitor pod distribution.
 
-  Before scaling:
-  ![Before Scaling](images/before-scaling)
-
   After scaling:
   ![Scaled from 2 to 4](images/scaled-from-2-to-4)
 
